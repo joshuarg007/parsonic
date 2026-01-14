@@ -3,7 +3,7 @@
 **AI-Powered Visual Web Scraper** — Point, click, and let AI do the rest.
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Studio: Axion Deep Labs](https://img.shields.io/badge/Studio-Axion_Deep_Labs-teal)](https://axiondeep.com/)
 
 ---
 
@@ -204,12 +204,10 @@ See [ROADMAP.md](ROADMAP.md) for planned features.
 
 ## License
 
-MIT License — use it, modify it, ship it.
 
 ---
 
 ## Credits
-
-Built with [Claude Code](https://claude.ai/claude-code) by Anthropic.
-
+Property of Axion Deep Labs Inc
+Developed by Joshua R. Guierrez
 *Parsonic: Because scraping should be smart, not hard.*
