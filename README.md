@@ -4,6 +4,7 @@
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Studio: Axion Deep Labs](https://img.shields.io/badge/Studio-Axion_Deep_Labs-teal)](https://axiondeep.com/)
+[![AI: integration](https://img.shields.io/badge/AI-Integration-red.svg)](https://www.axiondeep.com/solutions) 
 
 ---
 
@@ -208,6 +209,9 @@ See [ROADMAP.md](ROADMAP.md) for planned features.
 ---
 
 ## Credits
+
 Property of Axion Deep Labs Inc
-Developed by Joshua R. Guierrez
+
+Developed by **'joshuarg007'** (https://gutierrez.family)
+
 *Parsonic: Because scraping should be smart, not hard.*
