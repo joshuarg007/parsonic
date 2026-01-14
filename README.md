@@ -212,6 +212,6 @@ See [ROADMAP.md](ROADMAP.md) for planned features.
 
 Property of Axion Deep Labs Inc
 
-Developed by **'joshuarg007'** (https://gutierrez.family)
+Developed by **'joshuarg007'**
 
 *Parsonic: Because scraping should be smart, not hard.*
